@@ -1,0 +1,1 @@
+rollup index.js --format cjs --output bundle.js
